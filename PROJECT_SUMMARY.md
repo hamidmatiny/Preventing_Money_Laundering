@@ -359,7 +359,7 @@ The system supports:
 
 ```bash
 # 1. Navigate to project directory
-cd /Users/hamidrezamatiny/Documents/GitHub/Preventing_Money_Lundering
+cd ..Preventing_Money_Lundering
 
 # 2. Create virtual environment
 python3 -m venv aml_env
