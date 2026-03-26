@@ -74,7 +74,7 @@ Preventing_Money_Laundering/
 
 1. **Clone the repository**
 ```bash
-cd /Users/hamidrezamatiny/Documents/GitHub/Preventing_Money_Lundering
+cd ../Preventing_Money_Lundering
 ```
 
 2. **Create a virtual environment**
